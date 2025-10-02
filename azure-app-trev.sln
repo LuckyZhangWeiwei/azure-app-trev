@@ -1,8 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11018.127 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-app-trev", "azure-app-trev.csproj", "{F299FEBA-0145-7E6F-A674-FF9D12E53800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.StorageAccount.Demo", "..\Mvc.StorageAccount.Demo\Mvc.StorageAccount.Demo.csproj", "{5B2097DC-2F32-442F-B19D-024516390512}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{F299FEBA-0145-7E6F-A674-FF9D12E53800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F299FEBA-0145-7E6F-A674-FF9D12E53800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F299FEBA-0145-7E6F-A674-FF9D12E53800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2097DC-2F32-442F-B19D-024516390512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2097DC-2F32-442F-B19D-024516390512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2097DC-2F32-442F-B19D-024516390512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2097DC-2F32-442F-B19D-024516390512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
